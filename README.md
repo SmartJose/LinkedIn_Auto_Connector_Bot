@@ -31,7 +31,7 @@ P.S. For LinkedIn team - ooops, sorry! I was boring!
 ### 🚀 Quick Start Guide
 
 1. **💼 Add My LinkedIn:**  
-   You can connect with me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mrbondarenko/)
+   You can connect with me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/omar-hassan-39931b44b/)
 
 2. **🔍 Set Up Your Search Link:**  
    To set up your search link, follow these steps:
@@ -63,7 +63,7 @@ P.S. For LinkedIn team - ooops, sorry! I was boring!
 ### 📂 Clone the Repository
 
 ```bash
-git clone https://github.com/OfficialCodeVoyage/LinkedIn_Auto_Connector_Bot.git
+git clone https://github.com/SmartJose/LinkedIn_Auto_Connector_Bot.git
 cd LinkedIn_Auto_Connector_Bot
 ```
 
@@ -130,4 +130,4 @@ For any questions or issues, please feel free to reach out via GitHub Issues or 
 🌍 The LinkedIn community for providing a platform to connect professionals worldwide
 
 
-Made with ❤️ by [Pavlo Bondarenko](https://www.linkedin.com/in/mrbondarenko/)
+Made with ❤️ by [Pavlo Bondarenko](https://www.linkedin.com/in/omar-hassan-39931b44b/)
